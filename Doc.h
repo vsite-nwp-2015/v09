@@ -18,7 +18,7 @@ protected: // create from serialization only
 
 // Attributes
 public:
-
+	CRect dimenzije;
 // Operations
 public:
 

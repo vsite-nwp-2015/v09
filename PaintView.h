@@ -20,6 +20,8 @@ protected:
 public:
 	Doc* GetDocument();
 
+	void OnUpdate(CView *, LPARAM, CObject *);
+
 // Operations
 public:
 
